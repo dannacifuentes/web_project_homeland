@@ -15,7 +15,7 @@
   width: 984px;
 }
 
-@media screen (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .page__container {
     max-width: 768px;
   }
