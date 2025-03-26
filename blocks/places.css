@@ -6,7 +6,7 @@
   margin: 0 auto;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1279px) {
+@media screen and (min-width: 720px) and (max-width: 1279px) {
   .places {
     margin-left: 3.12%;
     margin-right: 3.12%;
@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 720px) {
   .places {
     margin-left: 0;
     margin-right: 0;
